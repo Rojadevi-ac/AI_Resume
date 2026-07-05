@@ -1,0 +1,13 @@
+flask
+flask-cors
+flask-jwt-extended
+pymongo
+bcrypt
+python-dotenv
+werkzeug
+spacy
+PyPDF2
+pdfplumber
+python-docx
+pytesseract
+reportlab
