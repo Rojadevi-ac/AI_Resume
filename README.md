@@ -71,5 +71,5 @@ npm run dev
 The app should now be running at `http://localhost:5173`.
 
 ###5. Live Link
-[(https://ai-resume-analyzer-y7i0.onrender.com0]
+[https://ai-resume-analyzer-y7i0.onrender.com0]
 
